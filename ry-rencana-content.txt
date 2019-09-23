@@ -1,1 +1,4 @@
 RENCANA KONTEN ry
+-Belajar php
+-Belajar javascript
+-belajar java
