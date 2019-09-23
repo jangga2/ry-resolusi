@@ -1,2 +1,3 @@
 ry-resolusi 
 - Menguasai bahasa pemrogramman PHP
+- Membuat video dengan efek menarik
